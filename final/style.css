@@ -1,0 +1,30 @@
+html, body {
+  height: 100%;
+}
+h1, h2 {
+  position: relative;
+  z-index: 2;
+}
+body {
+  
+  margin-top: 750px;
+  margin-bottom: 50px;
+  margin-left: 320px;
+  margin-right: 320px;
+  border: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.content-container {
+  text-align: center;
+  padding: 20px;
+}
+
+canvas {
+  display: block;
+  margin-top: 10px;
+}
