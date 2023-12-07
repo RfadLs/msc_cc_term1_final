@@ -3,8 +3,8 @@ Name: Qintong Yu
 Email: q.yu0620231@arts.ac.uk
 23/24 Coding One
 Submission Element 2: README 
-Weekly Assessment 
-Github Link: https://github.com/RfadLs/msc_cc_term1_final/tree/main/weekly 
+
+Github Link: https://github.com/RfadLs/msc_cc_term1_final/tree/main
 (Since I also designed an html page, which doesn't run well on mimic, I uploaded the code to github so that you can run it with Visual Studio)
 
 Project Name: [ The Changing Fireworks ]
